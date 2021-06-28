@@ -30,4 +30,4 @@ print(phrase.lower())                        # Changing the phrase to lowercase
 print(phrase.isupper())                      # Check if the phrase is uppercase
 print(phrase.islower())                      # Check if the phrase to lowercase
 print(phrase.upper().isupper())              # Change phrase to upper and check if it is upper
-print(phrase + " is the best ")     # concate phrase with another string
+print(phrase + " is the best ")              # concate phrase with another string
