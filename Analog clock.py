@@ -7,10 +7,11 @@ clock.title("Analog clock")
 #...............creating a drawing pen
 pen = turtle.Turtle()
 pen.hideturtle()
-pen.speed(1) #speed is 1 move per second and can be changed
+pen.speed(0) #speed is 1 move per second and can be changed
 pen.pensize(3)
 
-#.............Creating a function
+
+# ............Creating a function
 def draw_clock(pen):
     #...drawing the clock face
     pen.up()
