@@ -1,6 +1,6 @@
 import turtle
 clock=turtle.Screen()
-clock.bgcolor("black")
+clock.bgcolor("skyblue")
 clock.setup(width=600, height=600)
 clock.title("Analog clock")
 
