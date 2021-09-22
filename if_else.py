@@ -1,5 +1,5 @@
 # comparing the two variables
-a= 50
+a= 5
 b= 45
 if a<b:
     print('a is less than b')
