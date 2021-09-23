@@ -16,4 +16,5 @@ print("3*3+6=",3*3+6)
 # subtraction of two numbers
 print(3-4.5)
 print(3-2*1)
+print(Hello)
 
