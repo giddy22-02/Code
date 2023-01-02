@@ -12,7 +12,7 @@ elif inp_typ == 2:
     temp = temp + 273
     print('That is equals', temp, 'Kelvin')
 else:
-    print("Invalid Location")
+    print("You entered an invalid Location")
 
 
 
