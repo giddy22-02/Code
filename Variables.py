@@ -24,7 +24,7 @@ print(phrase)                                # print the content of the variable
 print(len(phrase))                           # print the length of the variable
 print(phrase.index("U"))                     # print the index position of letter U
 print(phrase.index("t"))                     # print the index position of letter t
-print(phrase.replace("Riara","Strathmore"))  # Replacing part of the phrase with a different word
+print(phrase.replace("Riara University","Nairobi University"))  # Replacing part of the phrase with a different word
 print(phrase.upper())                        # Changing the phrase to uppercase
 print(phrase.lower())                        # Changing the phrase to lowercase
 print(phrase.isupper())                      # Check if the phrase is uppercase
