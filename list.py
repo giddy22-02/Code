@@ -9,5 +9,5 @@ lst[0] = 28
 print(lst)
 
 # Empty list
-ages = list()
-print(ages)
+courses = list()
+print(courses)
