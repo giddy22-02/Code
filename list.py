@@ -7,3 +7,7 @@ lst.append(25)
 print(lst[0])
 lst[0] = 28
 print(lst)
+
+# Empty list
+ages = list()
+print(ages)
