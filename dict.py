@@ -24,3 +24,15 @@ for name in names:
     else:
         counts[name] = counts[name]+1
 print(counts)
+
+# dictionary to count the number of words
+# in the paragraph you enter
+
+
+counts = dict()
+line = input("Enter your text here: ")
+words = line.split()
+#print(words)
+for word in words:
+    counts[word] = counts.get(word, 0) + 1
+print('Counts', counts)
