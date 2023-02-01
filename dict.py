@@ -32,7 +32,7 @@ print(counts)
 counts = dict()
 line = input("Enter your text here: ")
 words = line.split()
-#print(words)
+# print(words)
 for word in words:
     counts[word] = counts.get(word, 0) + 1
 print('Counts', counts)
