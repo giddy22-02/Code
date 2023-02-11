@@ -1,0 +1,20 @@
+Index: list.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>lst = list()\r\nlst.append(22)\r\nlst.append(23)\r\nlst.append(24)\r\nlst.append(25)\r\n\r\nprint(lst[0])\r\nlst[0] = 28\r\nprint(lst)\r\n\r\n# Empty list\r\ncourses = list()\r\nprint(courses)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/list.py b/list.py
+--- a/list.py	
++++ b/list.py	
+@@ -8,6 +8,8 @@
+ lst[0] = 28
+ print(lst)
+ 
++
++
+ # Empty list
+ courses = list()
+ print(courses)
+\ No newline at end of file

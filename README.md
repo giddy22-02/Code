@@ -1,14 +1,3 @@
-Python Coding Practice <br>
-This is my coding practice <br>
-These are what I have done so far<br>
-A. variable......................#<br>
- part 1: Using one variable to print personal details<br>
- part 2: Concatenation of variables <br>
+# Python Coding Practice
+## variable2.py file
 
-B. numbers.py <br>
-C.Europe floors Convertor <br>
-D.Temperature Convertor <br>
-E. Analogue Clock<br>
-
-Branch Variables<br>
-Has variable2.py file
