@@ -20,3 +20,7 @@ These are what I have done so far<br>
 ### C.Europe floors Convertor <br>
 ### D.Temperature Convertor <br>
 ### E. Analogue Clock<br>
+table to be included
+'''diff
++table to be included
+'''
